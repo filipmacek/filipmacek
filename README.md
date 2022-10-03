@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am Filip Macek, a fullstack software developer and financial engieneer. 
 
 
 
