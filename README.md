@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## More about me
+- 📘 My favorite book is Tao Te Ching. It is such a magnificent piece of poetry about the way things are.
+- 🖥️ I love my desk setup - split keyboard (Kinesis Freestyle Pro), flexible standing desk and IDE and VIM for typing
+- 🎻 I used to play cello
+- 🧑‍🤝‍🧑 I love teaching and sharing knowledge. I used to teach kids mathematics and programming and prepare groups of students for math exams.
+- 🎼 I listen mostly ethnotronica, organic, oriental and deep house and a bit of hip-hop/rap. I just like rhythm and sound. But If I want 
+something different, jazz and classical music is also my thing.
+- 👟 I like sports and movement. My favorite are swimming, skiing, running and climbing
 
 <!--
 **filipmacek/filipmacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
