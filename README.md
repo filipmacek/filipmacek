@@ -14,8 +14,7 @@ My goal is to bring value and make connections based on trust.
 - High performance web servers
 - Microservice design and distributed streaming with Kafka
 - Scalable cloud architecture and Kubernetes, DevOps
-- All things related to algoritimic trading, HFT, market-making, backtesting and financial markets in general
-
+- All things related to algorithmic trading, HFT, market-making, backtesting and financial markets in general
 
 
 
