@@ -2,7 +2,7 @@
 
 
 My name is Filip Macek, full-stack software developer and financial engineer who graduated in mathematics .
-I am currently focused on building and exploring complex software systems with real world use case.
+I am currently focused on building and exploring complex software systems with real world use cases.
 Being curious and loving challenges, I have always embraced a different set of problems and situations.
 My goal is to bring value and make connections based on trust.
 
