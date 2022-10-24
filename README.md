@@ -44,9 +44,8 @@ My goal is to bring value and make connections based on trust.
 
 <br>
  
-- **React**
-- **NextJS**
-- **HTML, CSS, styled-components**
+- **React, NextJS**
+- **HTML, CSS, styled-components, D3**
 
 <br>
 
