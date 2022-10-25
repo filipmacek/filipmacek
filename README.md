@@ -91,5 +91,5 @@ My goal is to bring value and make connections based on trust.
 ## Contact
 
 I am always open to chat about interesting computer science topics and financial markets.\
-Please reach out to me if you have some interesting project, want to collaborate or need freelance work.
-
+Please reach out to me if you have some interesting project, want to collaborate or need freelance work.\
+You can find my CV [here](https://github.com/filipmacek/filipmacek/blob/main/filip_macek_cv.pdf).
